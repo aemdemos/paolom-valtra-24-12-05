@@ -1,0 +1,191 @@
+{
+  "url": "https://www.valtra.com/",
+  "sanitizedPath": "/index",
+  "autoDetect": false,
+  "mapping": [
+    {
+      "id": "1",
+      "path": "/nav",
+      "sections": [
+        {
+          "id": "1-1",
+          "blocks": [
+            {
+              "id": "box-id--1102402271",
+              "x": 0,
+              "y": 0,
+              "width": 1329,
+              "height": 10564,
+              "xpath": "/html[1]/body[1]/div[2]",
+              "layout": {
+                "numCols": 1,
+                "numRows": 2
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]",
+                  "xpathWithDetails": "id(\"main\")"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/div[4]",
+                  "xpathWithDetails": "id(\"page\")/div[@class=\"valtra-container template-valtra-home-page\"]"
+                }
+              ],
+              "color": "rgb(0, 0, 255)",
+              "mapping": "header",
+              "customBlockName": "header"
+            }
+          ],
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "path": "/index",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id-1946126496",
+              "x": 0,
+              "y": 27,
+              "width": 1329,
+              "height": 9858,
+              "xpath": "/html[1]/body[1]/div[2]/main[1]",
+              "layout": {
+                "numCols": 1,
+                "numRows": 22
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"titleblockcomp aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[5]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"herocarousel aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"liftblockcomp aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[7]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"featurecontainerblockcomp aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[8]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"featurecontainerblockcomp aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[9]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"subscribeblock aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[10]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"titleblockcomp aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[11]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"whatsnewcomp aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[12]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"titleblockcomp aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[13]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"bloggrid aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[14]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"titleblockcomp aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[15]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"gallerystripecomp aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[16]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"titleblockcomp aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[17]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"gallerystripecomp aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[17]/div[1]/a[3]/div[1]/img[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"gallerystripecomp aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"gallerystripe\"]/a[@class=\"gallerystripe__item\"]/div[@class=\"gallerystripe__img\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[18]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"cmp cmp-text aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[19]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"liftblockcomp aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[20]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"liftblockcomp aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[21]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"titleblockcomp aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[22]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"gallerystripecomp aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[23]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"subscribeblock aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[24]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"titleblockcomp aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[25]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"colctrlcomp aem-GridColumn aem-GridColumn--default--12\"]"
+                }
+              ],
+              "color": "rgba(0, 0, 255, 0.4)",
+              "mapping": "carousel",
+              "customBlockName": ""
+            },
+            {
+              "id": "box-id--1066381887",
+              "x": 0,
+              "y": 1294,
+              "width": 1329,
+              "height": 415,
+              "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[5]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgba(0, 0, 255, 0.3)",
+              "mapping": "hero",
+              "customBlockName": ""
+            }
+          ],
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "path": "/footer",
+      "sections": [
+        {
+          "id": "3-1",
+          "blocks": [],
+          "settings": {}
+        }
+      ]
+    }
+  ]
+}
